@@ -18,7 +18,7 @@ subtitle:
 feature:
   - description: |3-
           - Expert: Python
-          - Proficient: Java, C++, R, Latex
+          - Proficient: Java, C/C++, R, Go, HTML/CSS, SQL, Latex
           - Familiar: Assembly (RISC-V)
     icon: python
     icon_pack: fab
