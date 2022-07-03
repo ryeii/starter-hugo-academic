@@ -64,6 +64,6 @@ email: ''
 highlight_name: true
 ---
 
-I am an undergraduate student @ UC Berkeley majoring in Computer Science and an independent developer based in San Francisco Bay Area.
+Ryan An is an undergraduate student @ UC Berkeley majoring in Computer Science and an independent developer based in San Francisco Bay Area.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://ryeii.github.io/assets/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
