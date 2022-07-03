@@ -16,15 +16,20 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Python, R, Java, C++, RISC-V, Latex
+  - description: |3-
+          - Expert: Python
+          - Proficient: Java, C++, R, Latex
+          - Familiar: Assembly (RISC-V)
     icon: python
     icon_pack: fab
     name: Coding languages
-  - description: Tensorflow, Pytorch
+  - description: Git, Tensorflow, Pytorch, Numpy/Scipy, sklearn, pandas, Shell, Docker
     icon: r-project
     icon_pack: fab
-    name: AI & Statistics
-  - description: English, Chinese
+    name: Technologies
+  - description: |2-
+          - Fluent: English, Chinese
+          - Biginner: German
     icon: chart-line
     icon_pack: fas
     name: Languages

@@ -66,4 +66,4 @@ highlight_name: true
 
 Ryan An is an undergraduate student @ UC Berkeley majoring in Computer Science and an independent developer based in San Francisco Bay Area.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://ryeii.github.io/assets/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://ryeii.github.io/assets/Resume.pdf" "newtab" >}}resumé{{< /staticref >}} here or scroll down to read the web version. Last updated 2 Jul 2022
