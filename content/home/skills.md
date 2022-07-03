@@ -18,7 +18,7 @@ subtitle:
 feature:
   - description: 90%
     icon: binary-circle-check
-    icon_pack: fas
+    icon_pack: far
     name: R
   - description: 100%
     icon: chart-line
