@@ -29,8 +29,8 @@ feature:
     icon_pack: fas
     name: Photography
 # Uncomment to use emoji icons.
-  - icon: :smile:
-    icon_pack: emoji
+  - icon: ":smile:"
+    icon_pack: "emoji"
     name: Emojiness
     description: 100%
 
