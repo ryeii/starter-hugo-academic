@@ -22,9 +22,9 @@ feature:
     name: Coding languages
   - description: Tensorflow, Pytorch
     icon: r-project
-    icon_pack: fas
+    icon_pack: fab
     name: AI & Statistics
-  - description: Chinese
+  - description: English, Chinese
     icon: chart-line
     icon_pack: fas
     name: Languages
