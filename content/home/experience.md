@@ -25,7 +25,7 @@ experience:
   - title: Intern at Edge Computing & IT
     company: Siemens AG
     company_url: https://www.siemens.com/global/en.html
-    company_logo: siemens
+    company_logo: ''
     location: Beijing, China
     date_start: '2021-08-01'
     date_end: '2021-12-01'
@@ -40,7 +40,7 @@ experience:
   - title: Teaching Assistant
     company: Beijing Aidi School, American Senior Education
     company_url: https://www.aidi.edu.cn/en
-    company_logo: org-x
+    company_logo: ''
     location: Beijing, China
     date_start: '2021-03-01'
     date_end: '2021-12-01'
@@ -54,7 +54,7 @@ experience:
   - title: Contractor
     company: Duolingo Inc.
     company_url: https://www.duolingo.com/
-    company_logo: duolingo
+    company_logo: ''
     location: Beijing, China
     date_start: '2021-03-01'
     date_end: '2021-08-01'
