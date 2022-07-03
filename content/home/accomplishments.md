@@ -27,25 +27,25 @@ item:
     date_end: '2019-11-01'
     date_start: '2019-09-01'
     description: ''
-    organization: Yale University
+    organization: Coursera
     organization_url: https://www.coursera.org
-    title: Moral Foundations of Politics
+    title: Yale University - Moral Foundations of Politics
     url: ''
   - certificate_url: https://coursera.org/share/295c33e3a9eb27c28f9e95ebd77ab5e4
     date_end: '2019-12-01'
     date_start: '2019-11-01'
     description: ''
-    organization: University of Pennsylvania
+    organization: Coursera
     organization_url: https://www.coursera.org
-    title: Ancient Philosophy - Aristotle and His Successors
+    title: UPenn - Ancient Philosophy - Aristotle and His Successors
     url: ''
   - certificate_url: https://coursera.org/share/37527923981c3f0af975d46130bd8773
     date_end: '2019-12-01'
     date_start: '2019-11-01'
     description: ''
-    organization: University of Pennsylvania
+    organization: Coursera
     organization_url: https://www.coursera.org
-    title: Ancient Philosophy - Plato & His Predecessors
+    title: UPenn - Ancient Philosophy - Plato & His Predecessors
     url: ''
 
 design:
