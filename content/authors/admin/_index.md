@@ -66,8 +66,4 @@ highlight_name: true
 
 Ryan An is an undergraduate student @ UC Berkeley majoring in Computer Science.
 
-<div>
-  <a target="_blank" href="https://www.codewars.com/users/ryeii"><img src="https://www.codewars.com/users/ryeii/badges/large" alt="codewars badge large" /></a>
-</div>
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://ryeii.github.io/assets/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
