@@ -26,8 +26,8 @@ interests:
 education:
   courses:
     - course: BA in Computer Science
-      institution: University of California at Berkeley
-      year: 2021 - Expected 2022
+      institution: 2021 - Expected 2022
+      year: UC Berkeley
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
