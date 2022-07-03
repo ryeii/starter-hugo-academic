@@ -37,6 +37,20 @@ experience:
         (Azure)
         - Implemented command and data wrappers (OPCUA), connected AGV to Siemens factory IoT network system as an IoT device.
 
+  - title: Teaching Assistant
+    company: Beijing Aidi School, American Senior Education
+    company_url: https://www.aidi.edu.cn/en
+    company_logo: org-x
+    location: Beijing, China
+    date_start: '2021-03-01'
+    date_end: '2021-12-01'
+    description: |4-
+        - Developed a scheduling software to help match students and teachers’ time‑slot preferences, improved scheduling efficiency 10x with stable matching algorithm (Python).
+        - Served as TA in AP Physics C ‑ Mechanics on calculus‑based mechanics for a class of 25 students.
+        - Dedicated 40+ hours of 1‑to‑1 tutoring in AP Calculus, Physics, Chemistry, and Computer Science, receiving a wide range of positive reviews
+        from students.
+        - Presented 12 public talks on college application strategies and student well‑being, each had 30+ attendees.
+
   - title: Contractor
     company: Duolingo Inc.
     company_url: https://www.duolingo.com/
