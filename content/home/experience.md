@@ -27,8 +27,8 @@ experience:
     company_url: https://www.siemens.com/global/en.html
     company_logo: org-gc
     location: Beijing, China
-    date_start: '2021-08'
-    date_end: '2021-12'
+    date_start: '2021-08-01'
+    date_end: '2021-12-01'
     description: |2-
         Responsibilities include:
         
@@ -41,8 +41,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Beijing, China
-    date_start: '2021-03'
-    date_end: '2021-08'
+    date_start: '2021-03-01'
+    date_end: '2021-08-01'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
