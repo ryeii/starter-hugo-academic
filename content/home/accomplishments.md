@@ -25,23 +25,23 @@ date_format: Jan 2006
 item:
   - certificate_url: https://coursera.org/share/16426b555ef50f91f6a9828a6ac581eb
     date_end: '2019-11-01'
-    date_start: '2019-09-01'
+    date_start: '2019-10-01'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Yale University - Moral Foundations of Politics
     url: ''
   - certificate_url: https://coursera.org/share/295c33e3a9eb27c28f9e95ebd77ab5e4
-    date_end: '2019-12-01'
-    date_start: '2019-11-01'
+    date_end: '2019-11-01'
+    date_start: '2019-09-01'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
     title: UPenn - Ancient Philosophy - Aristotle and His Successors
     url: ''
   - certificate_url: https://coursera.org/share/37527923981c3f0af975d46130bd8773
-    date_end: '2019-12-01'
-    date_start: '2019-11-01'
+    date_end: '2019-11-01'
+    date_start: '2019-09-01'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
