@@ -23,29 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
+  - certificate_url: https://coursera.org/share/16426b555ef50f91f6a9828a6ac581eb
+    date_end: '2019-11-01'
+    date_start: ''
     description: ''
-    organization: Coursera
+    organization: Yale University
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: Moral Foundations of Politics
     url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+  - certificate_url: https://coursera.org/share/295c33e3a9eb27c28f9e95ebd77ab5e4
+    date_end: '2019-12-01'
+    date_start: ''
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: University of Pennsylvania
+    organization_url: https://www.coursera.org
+    title: Ancient Philosophy - Aristotle and His Successors
+    url: ''
+  - certificate_url: https://coursera.org/share/37527923981c3f0af975d46130bd8773
+    date_end: '2019-12-01'
+    date_start: ''
+    description: ''
+    organization: University of Pennsylvania
+    organization_url: https://www.coursera.org
+    title: Ancient Philosophy - Plato & His Predecessors
     url: ''
 
 design:
