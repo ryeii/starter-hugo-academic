@@ -14,7 +14,7 @@ organizations:
     url: https://www.berkeley.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ryan An is an undergraduate CS student @ UC Berkeley.
+bio: Ryan An is an undergraduate CS student @ UC Berkeley and an independent developer based in San Francisco Bay Area.
 
 # Interests to show in About widget
 interests:
