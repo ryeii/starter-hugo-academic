@@ -25,7 +25,7 @@ experience:
   - title: Intern at Edge Computing & IT
     company: Siemens AG
     company_url: https://www.siemens.com/global/en.html
-    company_logo: org-gc
+    company_logo: siemens
     location: Beijing, China
     date_start: '2021-08-01'
     date_end: '2021-12-01'
@@ -54,7 +54,7 @@ experience:
   - title: Contractor
     company: Duolingo Inc.
     company_url: https://www.duolingo.com/
-    company_logo: org-x
+    company_logo: duolingo
     location: Beijing, China
     date_start: '2021-03-01'
     date_end: '2021-08-01'
